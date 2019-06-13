@@ -1,0 +1,6 @@
+  int myNumber = 2;
+        double myOtherNumber = 1.7938;
+       // System.out.println(myNumber + myOtherNumber);
+        double temp = myNumber + myOtherNumber;
+        System.out.println(temp);
+        System.out.println("    
